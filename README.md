@@ -28,6 +28,13 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 - While Loops
 - Sum, Count, Average, Maximum patterns
 
+### Day 5
+- Learned Dictionaries
+- Accessed values using keys
+- Added and updated key-value pairs
+- Looped through dictionaries
+- Connected dictionary concepts to JSON API responses
+
 ## Tech Stack
 - Python
 - Git
