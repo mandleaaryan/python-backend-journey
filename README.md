@@ -35,6 +35,12 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 - Looped through dictionaries
 - Connected dictionary concepts to JSON API responses
 
+### Day 6
+- Combined dictionaries and lists
+- Calculated total marks
+- Calculated average marks
+- Built a simple student report program
+
 ## Tech Stack
 - Python
 - Git
