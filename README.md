@@ -41,6 +41,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 - Calculated average marks
 - Built a simple student report program
 
+### Day 7
+- Learned functions with return values
+- Passed lists to functions
+- Calculated totals using loops
+- Calculated averages using functions
+- Combined functions, lists, and dictionaries
+- Built a student average program
+
 ## Tech Stack
 - Python
 - Git
