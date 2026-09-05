@@ -64,6 +64,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 * Calculated averages for multiple students
 * Built a multi-student report system
 
+### Day 9
+
+- Learned comparison logic
+- Found highest value in a list
+- Found lowest value in a list
+- Tracked the best record using loops
+- Built a top student finder program
+
 ## Projects
 
 * Weather App
