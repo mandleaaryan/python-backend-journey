@@ -72,6 +72,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 - Tracked the best record using loops
 - Built a top student finder program
 
+### Day 10
+
+- Learned filtering with conditions
+- Counted records matching a condition
+- Printed filtered results
+- Built a student pass report
+- Generated simple statistics from data
+
 ## Projects
 
 * Weather App
