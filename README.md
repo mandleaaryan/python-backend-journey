@@ -80,6 +80,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 - Built a student pass report
 - Generated simple statistics from data
 
+### Day 11
+
+- Learned boolean functions
+- Returned True and False from functions
+- Used helper functions for filtering
+- Counted records using reusable logic
+- Built a student pass report system
+
 ## Projects
 
 * Weather App
