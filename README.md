@@ -66,27 +66,35 @@ My journey to becoming a Backend Developer and eventually working in Japan 🇯�
 
 ### Day 9
 
-- Learned comparison logic
-- Found highest value in a list
-- Found lowest value in a list
-- Tracked the best record using loops
-- Built a top student finder program
+* Learned comparison logic
+* Found highest value in a list
+* Found lowest value in a list
+* Tracked the best record using loops
+* Built a top student finder program
 
 ### Day 10
 
-- Learned filtering with conditions
-- Counted records matching a condition
-- Printed filtered results
-- Built a student pass report
-- Generated simple statistics from data
+* Learned filtering with conditions
+* Counted records matching a condition
+* Printed filtered results
+* Built a student pass report
+* Generated simple statistics from data
 
 ### Day 11
 
-- Learned boolean functions
-- Returned True and False from functions
-- Used helper functions for filtering
-- Counted records using reusable logic
-- Built a student pass report system
+* Learned boolean functions
+* Returned True and False from functions
+* Used helper functions for filtering
+* Counted records using reusable logic
+* Built a student pass report system
+
+### Day 12
+
+* Created functions that return counts
+* Created functions that return dictionaries
+* Built reusable utility functions
+* Counted passed students
+* Found the top student using a function
 
 ## Projects
 
@@ -94,6 +102,22 @@ My journey to becoming a Backend Developer and eventually working in Japan 🇯�
 * Student Report Program
 * Student Average Program
 * Multi Student Report System
+* Top Student Finder
+* Student Pass Report System
+* Student Utility Functions
+
+## Repository Structure
+
+```text
+weather_app.py
+student_report.py
+student_average.py
+multi_student_report.py
+top_student.py
+student_report_filter.py
+student_pass_report.py
+student_utilities.py
+```
 
 ## Tech Stack
 
@@ -108,4 +132,16 @@ Become a backend developer and secure a software engineering role in Japan.
 
 ## Current Learning Path
 
-Python → FastAPI → SQL → AWS → Backend Projects → Japan Job Preparation 🇯🇵
+Python Fundamentals ✅
+↓
+Intermediate Python (Current)
+↓
+SQL
+↓
+FastAPI
+↓
+AWS
+↓
+Backend Projects
+↓
+Japan Job Preparation 🇯🇵
