@@ -96,6 +96,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ğŸ‡¯ğ
 * Counted passed students
 * Found the top student using a function
 
+### Day 13
+
+* Combined multiple utility functions
+* Counted passed students
+* Found the top student
+* Calculated class average
+* Generated a complete class report
+
 ## Projects
 
 * Weather App
