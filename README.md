@@ -104,6 +104,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 * Calculated class average
 * Generated a complete class report
 
+### Day 14
+
+* Reused functions with multiple datasets
+* Generated reports for different classes
+* Calculated averages across classes
+* Counted passed students in multiple groups
+* Built a multi-class report system
+
 ## Projects
 
 * Weather App
