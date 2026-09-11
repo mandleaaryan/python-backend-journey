@@ -112,6 +112,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 * Counted passed students in multiple groups
 * Built a multi-class report system
 
+### Day 15
+
+- Built functions that call other functions
+- Used multiple function parameters
+- Generated reusable class reports
+- Applied the same logic to multiple datasets
+- Built a reusable report generator
+
 ## Projects
 
 * Weather App
