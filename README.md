@@ -130,6 +130,15 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 * Student Pass Report System
 * Student Utility Functions
 
+### Student Management System v1
+
+- Created first mini project
+- Displayed all students
+- Counted passed students
+- Found top student
+- Calculated class average
+- Generated complete class report
+
 ## Repository Structure
 
 ```text
@@ -141,6 +150,10 @@ top_student.py
 student_report_filter.py
 student_pass_report.py
 student_utilities.py
+class_report.py
+multi_class_report.py
+reusable_class_report.py
+student_management_system.py
 ```
 
 ## Tech Stack
