@@ -139,11 +139,14 @@ My journey to becoming a Backend Developer and eventually working in Japan ðŸ‡¯ð
 - Calculated class average
 - Generated complete class report
 
-### Expense Tracker (In Progress)
+### Expense Tracker v1
 
-- Created expense_tracker.py
+- Created second mini project
 - Displayed all expenses
-- Started second mini project
+- Calculated total spending
+- Found highest expense
+- Calculated average expense
+- Generated complete expense report
 
 ## Repository Structure
 
@@ -160,6 +163,7 @@ class_report.py
 multi_class_report.py
 reusable_class_report.py
 student_management_system.py
+expense_tracker.py
 ```
 
 ## Tech Stack
